@@ -1,0 +1,43 @@
+{
+  "ctaSection": {
+    "heading": "Unlock faster growth & intelligence.",
+    "buttonText": "Connect Now »"
+  },
+  "navigation": [
+    "Services",
+    "Solutions",
+    "Studios",
+    "About",
+    "Contact"
+  ],
+  "socialLinks": [
+    {
+      "platform": "facebook",
+      "url": "#",
+      "ariaLabel": "Follow us on Facebook"
+    },
+    {
+      "platform": "instagram",
+      "url": "#",
+      "ariaLabel": "Follow us on Instagram"
+    },
+    {
+      "platform": "twitter", 
+      "url": "#",
+      "ariaLabel": "Follow us on Twitter"
+    },
+    {
+      "platform": "linkedin",
+      "url": "#",
+      "ariaLabel": "Follow us on LinkedIn"
+    }
+  ],
+  "company": {
+    "name": "ZIMETRICS TECHNOLOGIES PRIVATE LIMITED",
+    "year": "2025",
+    "privacyPolicy": {
+      "text": "PRIVACY POLICY",
+      "url": "#"
+    }
+  }
+}

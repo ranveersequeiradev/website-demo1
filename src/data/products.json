@@ -1,0 +1,96 @@
+{
+  "pageTitle": "Our Products",
+  "pageSubtitle": "Innovative solutions designed to transform your business operations and drive growth.",
+  "products": [
+    {
+      "id": "ai-analytics",
+      "name": "AI-Powered Analytics",
+      "shortDescription": "Advanced analytics platform that leverages artificial intelligence to provide actionable insights.",
+      "longDescription": "Our AI-Powered Analytics platform revolutionizes how businesses understand their data. Using cutting-edge machine learning algorithms, we transform raw data into meaningful insights that drive strategic decision-making. The platform features real-time data processing, predictive analytics, and customizable dashboards that adapt to your business needs.",
+      "icon": "AI",
+      "color": "purple",
+      "category": "Artificial Intelligence",
+      "features": [
+        "Real-time data processing",
+        "Predictive analytics and forecasting",
+        "Custom dashboard creation",
+        "Machine learning model deployment",
+        "Data visualization tools",
+        "API integration capabilities"
+      ],
+      "benefits": [
+        "Reduce decision-making time by 70%",
+        "Increase forecast accuracy by 85%",
+        "Automate 90% of data analysis tasks",
+        "ROI improvement of 200% within 6 months"
+      ],
+      "technologies": ["Python", "TensorFlow", "Apache Spark", "React", "Node.js"],
+      "pricing": {
+        "starter": "$299/month",
+        "professional": "$799/month",
+        "enterprise": "Custom pricing"
+      },
+      "image": "https://placehold.co/800x400/6366F1/FFFFFF?text=AI+Analytics"
+    },
+    {
+      "id": "cloud-solutions",
+      "name": "Cloud Solutions",
+      "shortDescription": "Scalable cloud infrastructure and services to modernize your business operations.",
+      "longDescription": "Transform your business with our comprehensive cloud solutions. We provide end-to-end cloud migration, infrastructure management, and optimization services. Our solutions are designed to be secure, scalable, and cost-effective, helping you leverage the full potential of cloud computing.",
+      "icon": "CL",
+      "color": "teal",
+      "category": "Cloud Infrastructure",
+      "features": [
+        "Cloud migration services",
+        "Multi-cloud management",
+        "Auto-scaling infrastructure",
+        "Security and compliance",
+        "Cost optimization tools",
+        "24/7 monitoring and support"
+      ],
+      "benefits": [
+        "Reduce infrastructure costs by 40%",
+        "Improve system uptime to 99.9%",
+        "Scale resources automatically",
+        "Enhanced security and compliance"
+      ],
+      "technologies": ["AWS", "Azure", "Google Cloud", "Kubernetes", "Docker"],
+      "pricing": {
+        "basic": "$199/month",
+        "standard": "$599/month",
+        "premium": "$1,299/month"
+      },
+      "image": "https://placehold.co/800x400/14B8A6/FFFFFF?text=Cloud+Solutions"
+    },
+    {
+      "id": "data-tools",
+      "name": "Data Management Tools",
+      "shortDescription": "Comprehensive data management and visualization tools for better decision making.",
+      "longDescription": "Our Data Management Tools provide a complete solution for collecting, processing, and visualizing your business data. With advanced ETL capabilities, real-time data synchronization, and powerful visualization features, you can turn complex datasets into clear, actionable insights.",
+      "icon": "DT",
+      "color": "green",
+      "category": "Data Management",
+      "features": [
+        "ETL pipeline automation",
+        "Real-time data synchronization",
+        "Advanced data visualization",
+        "Data quality monitoring",
+        "Custom report generation",
+        "Multi-source data integration"
+      ],
+      "benefits": [
+        "Process data 10x faster",
+        "Reduce data errors by 95%",
+        "Improve data accessibility",
+        "Automated compliance reporting"
+      ],
+      "technologies": ["Apache Airflow", "PostgreSQL", "MongoDB", "Tableau", "Power BI"],
+      "pricing": {
+        "essentials": "$149/month",
+        "professional": "$449/month",
+        "enterprise": "$999/month"
+      },
+      "image": "https://placehold.co/800x400/10B981/FFFFFF?text=Data+Tools"
+    }
+  ]
+}

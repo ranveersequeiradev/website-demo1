@@ -1,0 +1,48 @@
+{
+  "section": {
+    "title": "Enabling platforms and standards",
+    "className": "bg-white py-12 md:py-16"
+  },
+  "logos": [
+    {
+      "id": 1,
+      "src": "/logos/react.svg",
+      "alt": "React"
+    },
+    {
+      "id": 2,
+      "src": "/logos/nodejs.svg",
+      "alt": "Node.js"
+    },
+    {
+      "id": 3,
+      "src": "/logos/python.svg",
+      "alt": "Python"
+    },
+    {
+      "id": 4,
+      "src": "/logos/aws.svg",
+      "alt": "AWS"
+    },
+    {
+      "id": 5,
+      "src": "/logos/docker.svg",
+      "alt": "Docker"
+    },
+    {
+      "id": 6,
+      "src": "/logos/kubernetes.svg",
+      "alt": "Kubernetes"
+    },
+    {
+      "id": 7,
+      "src": "/logos/mongodb.svg",
+      "alt": "MongoDB"
+    },
+    {
+      "id": 8,
+      "src": "/logos/postgresql.svg",
+      "alt": "PostgreSQL"
+    }
+  ]
+}

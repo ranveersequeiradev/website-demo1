@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "Data & Analytics Services",
+    "subtitle": "Unlock the power of your data with our comprehensive analytics solutions",
+    "description": "Transform your business with data-driven insights. Our expert team helps you collect, process, and analyze data to make informed decisions that drive growth and innovation.",
+    "ctaText": "Get Started Today",
+    "backgroundImage": "https://placehold.co/1920x800/1A0737/FFFFFF?text=Data+Analytics"
+  },
+  "serviceCards": [
+    {
+      "id": 1,
+      "icon": "DataStrategyIcon",
+      "title": "Data Strategy & Consulting",
+      "description": "Develop comprehensive data strategies that align with your business objectives and drive measurable outcomes.",
+      "bgClass": "bg-gradient-to-br from-purple-600 to-purple-800",
+      "patternClass": "bg-pattern-dots"
+    },
+    {
+      "id": 2,
+      "icon": "DataArchitectureIcon", 
+      "title": "Data Architecture & Engineering",
+      "description": "Build robust, scalable data pipelines and architectures that support your growing data needs.",
+      "bgClass": "bg-gradient-to-br from-teal-600 to-teal-800",
+      "patternClass": "bg-pattern-grid"
+    },
+    {
+      "id": 3,
+      "icon": "MasterDataIcon",
+      "title": "Master Data Management",
+      "description": "Ensure data consistency and accuracy across your organization with comprehensive master data solutions.",
+      "bgClass": "bg-gradient-to-br from-green-600 to-green-800", 
+      "patternClass": "bg-pattern-lines"
+    },
+    {
+      "id": 4,
+      "icon": "DataSecurityIcon",
+      "title": "Data Security & Governance",
+      "description": "Protect your data assets with enterprise-grade security measures and governance frameworks.",
+      "bgClass": "bg-gradient-to-br from-red-600 to-red-800",
+      "patternClass": "bg-pattern-circles"
+    },
+    {
+      "id": 5,
+      "icon": "DataQualityIcon",
+      "title": "Data Quality & Monitoring", 
+      "description": "Maintain high data quality standards with automated monitoring and cleansing processes.",
+      "bgClass": "bg-gradient-to-br from-indigo-600 to-indigo-800",
+      "patternClass": "bg-pattern-waves"
+    }
+  ],
+  "technologies": {
+    "title": "Technologies We Work With",
+    "logos": [
+      { "name": "1Q-Lip", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=1Q-Lip" },
+      { "name": "Databricks", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=Databricks" },
+      { "name": "Alation", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=Alation" },
+      { "name": "Cassandra", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=Cassandra" },
+      { "name": "VoltDB", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=VoltDB" },
+      { "name": "Azure Cosmos DB", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=Cosmos+DB" },
+      { "name": "Neo4j", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=Neo4j" },
+      { "name": "ShareGate", "src": "https://placehold.co/100x40/f3f4f6/9ca3af?text=ShareGate" }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Data?",
+    "description": "Let's discuss how our data and analytics services can help your business unlock new opportunities and drive growth.",
+    "primaryButton": {
+      "text": "Start Your Project",
+      "url": "/contact"
+    },
+    "secondaryButton": {
+      "text": "Schedule Consultation", 
+      "url": "/contact"
+    }
+  }
+}

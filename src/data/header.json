@@ -1,0 +1,66 @@
+{
+  "logo": {
+    "text": "Devkraft",
+    "alt": "Devkraft Logo"
+  },
+  "navigation": {
+    "items": [
+      {
+        "id": "industries",
+        "name": "Capabilities",
+        "dropdown": [
+          "Medical Devices",
+          "Healthcare & Life Sciences", 
+          "Media & AdTech",
+          "MarTech",
+          "FinTech & Insurance",
+          "Automotive",
+          "Manufacturing"
+        ]
+      },
+      {
+        "id": "services",
+        "name": "Services",
+        "dropdown": [
+          "Custom Software Development",
+          "Cloud Solutions",
+          "AI & Machine Learning",
+          "Mobile App Development",
+          "DevOps & Infrastructure",
+          "Quality Assurance",
+          "Technical Consulting"
+        ]
+      },
+      {
+        "id": "solutions",
+        "name": "Solutions",
+        "dropdown": [
+          "Enterprise Solutions",
+          "Startup MVP Development",
+          "Digital Transformation",
+          "Legacy System Modernization",
+          "API Development & Integration"
+        ]
+      },
+      {
+        "id": "about",
+        "name": "About",
+        "dropdown": [
+          "Our Story",
+          "Team",
+          "Careers",
+          "Culture & Values",
+          "Press & Media",
+          "Contact Us"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "text": "Contact Us",
+    "variant": "primary"
+  },
+  "mobileMenu": {
+    "ctaText": "Get Started"
+  }
+}

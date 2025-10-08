@@ -1,0 +1,180 @@
+{
+  "pageTitle": "Our Services",
+  "pageSubtitle": "Comprehensive technology services to accelerate your digital transformation journey.",
+  "services": [
+    {
+      "id": "custom-software",
+      "name": "Custom Software Development",
+      "shortDescription": "Tailored software solutions built to meet your specific business requirements and goals.",
+      "longDescription": "We specialize in creating bespoke software solutions that perfectly align with your business processes and objectives. Our team of experienced developers works closely with you to understand your unique requirements and deliver high-quality, scalable software that drives your business forward.",
+      "icon": "1",
+      "color": "purple",
+      "category": "Development",
+      "process": [
+        "Requirements analysis and planning",
+        "System architecture design",
+        "Agile development methodology",
+        "Quality assurance and testing",
+        "Deployment and maintenance",
+        "Ongoing support and updates"
+      ],
+      "deliverables": [
+        "Complete source code",
+        "Technical documentation",
+        "User manuals and training",
+        "Deployment scripts",
+        "Testing reports",
+        "Maintenance plan"
+      ],
+      "technologies": ["React", "Node.js", "Python", "Java", "PostgreSQL"],
+      "duration": "3-12 months",
+      "pricing": "Starting from $15,000",
+      "image": "https://placehold.co/800x400/6366F1/FFFFFF?text=Custom+Software"
+    },
+    {
+      "id": "cloud-architecture",
+      "name": "Cloud Architecture",
+      "shortDescription": "Design and implementation of scalable, secure cloud infrastructure solutions.",
+      "longDescription": "Transform your IT infrastructure with our comprehensive cloud architecture services. We design and implement robust, scalable cloud solutions that optimize performance, ensure security, and reduce operational costs while providing the flexibility to grow with your business.",
+      "icon": "2",
+      "color": "teal",
+      "category": "Infrastructure",
+      "process": [
+        "Current infrastructure assessment",
+        "Cloud strategy development",
+        "Architecture design and planning",
+        "Migration and implementation",
+        "Security and compliance setup",
+        "Performance optimization"
+      ],
+      "deliverables": [
+        "Cloud architecture blueprints",
+        "Migration roadmap",
+        "Security framework",
+        "Cost optimization plan",
+        "Monitoring setup",
+        "Documentation and training"
+      ],
+      "technologies": ["AWS", "Azure", "Google Cloud", "Terraform", "Kubernetes"],
+      "duration": "2-8 months",
+      "pricing": "Starting from $25,000",
+      "image": "https://placehold.co/800x400/14B8A6/FFFFFF?text=Cloud+Architecture"
+    },
+    {
+      "id": "ai-ml",
+      "name": "AI & Machine Learning",
+      "shortDescription": "Intelligent automation and predictive analytics to enhance business operations.",
+      "longDescription": "Harness the power of artificial intelligence and machine learning to automate processes, gain insights, and make data-driven decisions. Our AI/ML services help you implement intelligent solutions that learn and adapt to improve your business outcomes.",
+      "icon": "3",
+      "color": "green",
+      "category": "Artificial Intelligence",
+      "process": [
+        "Use case identification",
+        "Data collection and preparation",
+        "Model development and training",
+        "Validation and testing",
+        "Deployment and integration",
+        "Monitoring and optimization"
+      ],
+      "deliverables": [
+        "Trained ML models",
+        "AI integration framework",
+        "Data pipelines",
+        "Model monitoring dashboard",
+        "Performance reports",
+        "User training materials"
+      ],
+      "technologies": ["TensorFlow", "PyTorch", "Python", "Apache Spark", "MLflow"],
+      "duration": "4-10 months",
+      "pricing": "Starting from $35,000",
+      "image": "https://placehold.co/800x400/10B981/FFFFFF?text=AI+Machine+Learning"
+    },
+    {
+      "id": "mobile-apps",
+      "name": "Mobile App Development",
+      "shortDescription": "Native and cross-platform mobile applications for iOS and Android devices.",
+      "longDescription": "Create engaging mobile experiences with our comprehensive mobile app development services. We build native and cross-platform applications that provide seamless user experiences across all devices while maintaining high performance and security standards.",
+      "icon": "4",
+      "color": "orange",
+      "category": "Mobile Development",
+      "process": [
+        "App concept and strategy",
+        "UI/UX design and prototyping",
+        "Development and coding",
+        "Quality assurance testing",
+        "App store submission",
+        "Post-launch support"
+      ],
+      "deliverables": [
+        "Mobile applications (iOS/Android)",
+        "Source code and documentation",
+        "App store assets",
+        "Testing reports",
+        "Deployment guides",
+        "Maintenance plan"
+      ],
+      "technologies": ["React Native", "Flutter", "Swift", "Kotlin", "Firebase"],
+      "duration": "3-8 months",
+      "pricing": "Starting from $20,000",
+      "image": "https://placehold.co/800x400/EA580C/FFFFFF?text=Mobile+Apps"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps & Infrastructure",
+      "shortDescription": "Streamlined development workflows and robust infrastructure management.",
+      "longDescription": "Optimize your development and deployment processes with our DevOps services. We implement CI/CD pipelines, automate infrastructure management, and establish monitoring systems that ensure reliable, scalable, and efficient software delivery.",
+      "icon": "5",
+      "color": "red",
+      "category": "Operations",
+      "process": [
+        "Current workflow assessment",
+        "CI/CD pipeline design",
+        "Infrastructure automation",
+        "Monitoring and alerting setup",
+        "Security implementation",
+        "Team training and handover"
+      ],
+      "deliverables": [
+        "Automated CI/CD pipelines",
+        "Infrastructure as Code",
+        "Monitoring dashboards",
+        "Security frameworks",
+        "Documentation",
+        "Team training materials"
+      ],
+      "technologies": ["Jenkins", "GitLab CI", "Docker", "Kubernetes", "Ansible"],
+      "duration": "2-6 months",
+      "pricing": "Starting from $18,000",
+      "image": "https://placehold.co/800x400/DC2626/FFFFFF?text=DevOps+Infrastructure"
+    },
+    {
+      "id": "consulting",
+      "name": "Technical Consulting",
+      "shortDescription": "Expert guidance on technology strategy, architecture, and digital transformation.",
+      "longDescription": "Leverage our expertise to make informed technology decisions and accelerate your digital transformation. Our consulting services provide strategic guidance, technical audits, and roadmap development to help you achieve your business objectives efficiently.",
+      "icon": "6",
+      "color": "indigo",
+      "category": "Strategy",
+      "process": [
+        "Business and technical assessment",
+        "Strategy development",
+        "Technology recommendations",
+        "Implementation roadmap",
+        "Risk assessment",
+        "Ongoing advisory support"
+      ],
+      "deliverables": [
+        "Technical assessment report",
+        "Technology strategy document",
+        "Implementation roadmap",
+        "Risk mitigation plan",
+        "Vendor recommendations",
+        "Executive presentations"
+      ],
+      "technologies": ["Various based on needs"],
+      "duration": "1-4 months",
+      "pricing": "Starting from $10,000",
+      "image": "https://placehold.co/800x400/4F46E5/FFFFFF?text=Technical+Consulting"
+    }
+  ]
+}

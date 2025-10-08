@@ -1,0 +1,63 @@
+{
+  "section": {
+    "title": "Discover the MedTech of Tomorrow",
+    "linkText": "RELATED INDUSTRIES",
+    "linkUrl": "#",
+    "className": "text-4xl md:text-5xl font-extrabold text-white",
+    "linkClassName": "text-sm font-semibold text-[#32C592] border-b-2 border-[#32C592] pb-1 hidden md:block"
+  },
+  "stories": [
+    {
+      "id": 1,
+      "title": "AI-Powered Diagnostic Platform",
+      "description": "Revolutionary medical imaging platform that reduces diagnosis time by 75% using advanced AI algorithms.",
+      "image": "https://placehold.co/400x300/1A0737/FFFFFF?text=AI+Diagnostic",
+      "category": "Medical Devices",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 2,
+      "title": "Remote Patient Monitoring",
+      "description": "IoT-enabled healthcare solution that monitors patients remotely and provides real-time health insights.",
+      "image": "https://placehold.co/400x300/6366F1/FFFFFF?text=Remote+Monitor",
+      "category": "Healthcare Technology",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 3,
+      "title": "Smart Drug Delivery System",
+      "description": "Precision drug delivery platform that optimizes medication timing and dosage for individual patients.",
+      "image": "https://placehold.co/400x300/10B981/FFFFFF?text=Drug+Delivery",
+      "category": "Pharmaceutical Technology",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 4,
+      "title": "Telemedicine Platform",
+      "description": "Comprehensive telemedicine solution connecting patients with healthcare providers globally.",
+      "image": "https://placehold.co/400x300/F59E0B/FFFFFF?text=Telemedicine",
+      "category": "Digital Health",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 5,
+      "title": "Medical Data Analytics",
+      "description": "Advanced analytics platform that processes medical data to identify patterns and treatment outcomes.",
+      "image": "https://placehold.co/400x300/EF4444/FFFFFF?text=Data+Analytics",
+      "category": "Data Science",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 6,
+      "title": "Surgical Robot Assistant",
+      "description": "AI-powered surgical assistance system that enhances precision and reduces operation time.",
+      "image": "https://placehold.co/400x300/8B5CF6/FFFFFF?text=Surgical+Robot",
+      "category": "Robotics",
+      "industry": "Healthcare"
+    }
+  ],
+  "settings": {
+    "autoRotateInterval": 3000,
+    "itemsPerView": 3
+  }
+}

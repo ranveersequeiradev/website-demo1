@@ -1,0 +1,76 @@
+{
+  "section": {
+    "title": "Driving Transformative Impact",
+    "subtitle": "with leading technologies and business acumen"
+  },
+  "partners": [
+    {
+      "id": 1,
+      "name": "Informatica",
+      "logo": "text",
+      "logoText": "informatica",
+      "category": "Data Integration",
+      "website": "https://www.informatica.com"
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "logo": "svg",
+      "logoSvg": "python-logo",
+      "category": "Programming Language",
+      "website": "https://www.python.org"
+    },
+    {
+      "id": 3,
+      "name": "OpenAI",
+      "logo": "svg",
+      "logoSvg": "openai-logo",
+      "category": "Artificial Intelligence",
+      "website": "https://www.openai.com"
+    },
+    {
+      "id": 4,
+      "name": "Salesforce",
+      "logo": "svg",
+      "logoSvg": "salesforce-logo",
+      "category": "CRM Platform",
+      "website": "https://www.salesforce.com"
+    },
+    {
+      "id": 5,
+      "name": "MuleSoft",
+      "logo": "text",
+      "logoText": "MuleSoft",
+      "category": "Integration Platform",
+      "website": "https://www.mulesoft.com"
+    },
+    {
+      "id": 6,
+      "name": "Shopify",
+      "logo": "svg",
+      "logoSvg": "shopify-logo",
+      "category": "E-commerce Platform",
+      "website": "https://www.shopify.com"
+    },
+    {
+      "id": 7,
+      "name": "AWS",
+      "logo": "text",
+      "logoText": "AWS",
+      "category": "Cloud Services",
+      "website": "https://aws.amazon.com"
+    },
+    {
+      "id": 8,
+      "name": "Microsoft Azure",
+      "logo": "text",
+      "logoText": "Azure",
+      "category": "Cloud Platform",
+      "website": "https://azure.microsoft.com"
+    }
+  ],
+  "animation": {
+    "duration": "30s",
+    "pauseOnHover": true
+  }
+}

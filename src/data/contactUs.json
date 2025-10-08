@@ -1,0 +1,72 @@
+{
+  "section": {
+    "label": "Contact",
+    "heading": "Hello, thanks for your interest in Zimetrics!",
+    "subheading": "Send us a Message"
+  },
+  "form": {
+    "fields": [
+      {
+        "name": "firstName",
+        "type": "text",
+        "placeholder": "First Name",
+        "required": true,
+        "gridColumn": "half"
+      },
+      {
+        "name": "lastName",
+        "type": "text",
+        "placeholder": "Last Name",
+        "required": true,
+        "gridColumn": "half"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "placeholder": "Business Email",
+        "required": true,
+        "gridColumn": "full"
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "placeholder": "Contact Number",
+        "required": false,
+        "gridColumn": "half"
+      },
+      {
+        "name": "company",
+        "type": "text",
+        "placeholder": "Company Name",
+        "required": false,
+        "gridColumn": "half"
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "placeholder": "Write your message",
+        "required": true,
+        "gridColumn": "full",
+        "rows": 5
+      }
+    ],
+    "submitButton": {
+      "text": "Send Message",
+      "loadingText": "Sending..."
+    }
+  },
+  "contactInfo": [
+    {
+      "type": "email",
+      "label": "Email Us",
+      "value": "hello@zimetrics.com",
+      "link": "mailto:hello@zimetrics.com"
+    },
+    {
+      "type": "phone",
+      "label": "Call Us",
+      "value": "+1 (555) 123-4567",
+      "link": "tel:+15551234567"
+    }
+  ]
+}

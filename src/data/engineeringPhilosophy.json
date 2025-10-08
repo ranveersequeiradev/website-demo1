@@ -1,0 +1,50 @@
+{
+  "section": {
+    "title": "Engineering Excellence",
+    "subtitle": "Our Core Principles"
+  },
+  "philosophyItems": [
+    {
+      "id": 1,
+      "title": "Our Engineering Philosophy",
+      "isLarge": true,
+      "image": "https://placehold.co/600x400/1A0737/A78BFA?text=Abstract+Purple",
+      "description": "Building tomorrow's technology with today's best practices"
+    },
+    {
+      "id": 2,
+      "title": "Privacy & Security by Design",
+      "isLarge": false,
+      "image": "https://placehold.co/600x400/000000/FFFFFF?text=Dark+Wave",
+      "description": "Integrating security at every layer of development"
+    },
+    {
+      "id": 3,
+      "title": "Design for Completeness",
+      "isLarge": false,
+      "image": "https://placehold.co/600x400/333333/FFFFFF?text=Tech+Lines",
+      "description": "Comprehensive solutions that cover all user needs"
+    },
+    {
+      "id": 4,
+      "title": "Build for Scale",
+      "isLarge": false,
+      "image": "https://placehold.co/600x400/111111/FFFFFF?text=Glass+Cubes",
+      "description": "Architecture that grows with your business"
+    },
+    {
+      "id": 5,
+      "title": "Automate Heavily",
+      "isLarge": false,
+      "image": "https://placehold.co/600x400/222222/FFFFFF?text=Floating+Shapes",
+      "description": "Reducing human error through intelligent automation"
+    },
+    {
+      "id": 6,
+      "title": "Build to Operate",
+      "isLarge": false,
+      "image": "https://placehold.co/600x400/1A1A1A/FFFFFF?text=Liquid+Metal",
+      "description": "Operations-first approach to development"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "AI Enhanced Medical Coding Efficiency",
+      "description": "Reshaping the Healthcare Industry with AI-driven Deep Learning Model in Medical Coding.",
+      "highlightWord": "Medical",
+      "ctaText": "READ MORE",
+      "ctaUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Next-Gen Fintech & Insurance Solutions",
+      "description": "Leveraging machine learning to predict market trends and mitigate financial risks.",
+      "highlightWord": "Fintech",
+      "ctaText": "LEARN MORE",
+      "ctaUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Automotive Industry Process Automation",
+      "description": "Implementing smart AI to streamline manufacturing and supply chain logistics.",
+      "highlightWord": "Automotive",
+      "ctaText": "EXPLORE NOW",
+      "ctaUrl": "#"
+    },
+    {
+      "id": 4,
+      "title": "Manufacturing Intelligence Revolution",
+      "description": "Transform your production line with IoT sensors and predictive analytics for optimal efficiency.",
+      "highlightWord": "Manufacturing",
+      "ctaText": "DISCOVER MORE",
+      "ctaUrl": "#"
+    }
+  ],
+  "settings": {
+    "autoplayInterval": 5000,
+    "showDots": true,
+    "pauseOnHover": true
+  }
+}

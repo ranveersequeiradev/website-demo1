@@ -1,0 +1,80 @@
+{
+  "section": {
+    "title": "Client Success Stories",
+    "subtitle": "Transforming businesses through innovative technology solutions"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "At Avalon Medical, we truly value our partnership with Zimetrics. Their team brings a wealth of knowledge in all aspects of healthcare software including firmware, mobile apps, cloud, data, DevOps and Commerce, which greatly helped us with seamless integration. The team runs projects efficiently, independently and diligently, with clear understanding of business and patient needs. It has been my pleasure to work with Zimetrics, as they continue to be a big part of our success story.",
+      "author": "Manish Vaishya",
+      "title": "Chief Technology Officer",
+      "company": "Avalon Medical",
+      "image": "https://placehold.co/100x100/6366F1/FFFFFF?text=MV"
+    },
+    {
+      "id": 2,
+      "quote": "The Zimetrics team was instrumental in developing our data platform. Their expertise in cloud architecture and data engineering allowed us to scale our services and provide better insights to our clients. A truly professional and dedicated partner.",
+      "author": "Jane Doe",
+      "title": "Head of Engineering",
+      "company": "DataCorp",
+      "image": "https://placehold.co/100x100/EC4899/FFFFFF?text=JD"
+    },
+    {
+      "id": 3,
+      "quote": "Working with Zimetrics on our patient outreach program was a game-changer. Their ability to understand complex healthcare workflows and translate them into a user-friendly application was remarkable. We've seen a significant increase in patient engagement.",
+      "author": "Dr. John Smith",
+      "title": "Chief Medical Officer",
+      "company": "HealthCare Plus",
+      "image": "https://placehold.co/100x100/10B981/FFFFFF?text=JS"
+    },
+    {
+      "id": 4,
+      "quote": "Zimetrics delivered our fintech platform ahead of schedule and under budget. Their deep understanding of financial regulations and modern technology stack made them the perfect partner for our digital transformation.",
+      "author": "Sarah Johnson",
+      "title": "CEO",
+      "company": "FinanceFlow",
+      "image": "https://placehold.co/100x100/F59E0B/FFFFFF?text=SJ"
+    }
+  ],
+  "successStories": [
+    {
+      "id": 1,
+      "title": "FDA-Approved Nerve Simulation Therapy: A MedTech Startup's Success Story",
+      "image": "https://placehold.co/600x400/111827/FFFFFF?text=MedTech",
+      "category": "Healthcare",
+      "description": "Helping a startup achieve FDA approval with innovative medical device software",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "Scalable Data Platform for Medical Device Leader",
+      "image": "https://placehold.co/600x400/1F2937/FFFFFF?text=Data+Platform",
+      "category": "Data Engineering",
+      "description": "Building enterprise-grade data infrastructure for better patient outcomes",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "Enhancing Patient Care: A Patient Outreach Program for Medical Device Leader",
+      "image": "https://placehold.co/600x400/374151/FFFFFF?text=Patient+Care",
+      "category": "Digital Health",
+      "description": "Improving patient engagement through innovative digital solutions",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": "AI-Powered Insurance Claims Processing",
+      "image": "https://placehold.co/600x400/1E40AF/FFFFFF?text=AI+Claims",
+      "category": "Fintech",
+      "description": "Reducing claim processing time by 80% with machine learning",
+      "url": "#"
+    }
+  ],
+  "carousel": {
+    "autoplayInterval": 6000,
+    "pauseOnHover": true,
+    "showArrows": true,
+    "showDots": true
+  }
+}

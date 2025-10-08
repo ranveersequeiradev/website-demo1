@@ -1,0 +1,39 @@
+{
+  "section": {
+    "title": "Industry Mega Trends",
+    "subtitle": "Explore the key trends shaping the future of technology and business",
+    "className": "bg-gray-900 py-16 md:py-24"
+  },
+  "trends": [
+    {
+      "id": 1,
+      "title": "Artificial Intelligence & Machine Learning",
+      "content": "AI and ML are transforming how businesses operate, enabling predictive analytics, automation, and intelligent decision-making across industries. From healthcare diagnostics to financial fraud detection, these technologies are becoming essential for competitive advantage."
+    },
+    {
+      "id": 2,
+      "title": "Cloud-First Infrastructure",
+      "content": "Organizations are adopting cloud-first strategies to achieve scalability, flexibility, and cost efficiency. Multi-cloud and hybrid cloud architectures are becoming the norm, enabling businesses to leverage the best services from different providers."
+    },
+    {
+      "id": 3,
+      "title": "Edge Computing Revolution",
+      "content": "Edge computing is bringing processing power closer to data sources, reducing latency and enabling real-time applications. This trend is crucial for IoT devices, autonomous vehicles, and applications requiring instant response times."
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Evolution",
+      "content": "As digital transformation accelerates, cybersecurity is evolving beyond traditional perimeter defense to zero-trust architectures, AI-powered threat detection, and comprehensive data protection strategies."
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Technology",
+      "content": "Green technology and sustainable computing practices are gaining prominence. Organizations are focusing on energy-efficient solutions, carbon-neutral operations, and environmentally responsible technology choices."
+    },
+    {
+      "id": 6,
+      "title": "Low-Code/No-Code Platforms",
+      "content": "The democratization of software development through low-code and no-code platforms is enabling non-technical users to create applications, accelerating digital transformation and reducing development costs."
+    }
+  ]
+}
